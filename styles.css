@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.title {
+    background-color: lightblue;
+    font-weight: bold;
+}
+
+.recipeList {
+    background-color: antiquewhite;
+}
+
+.recipe {
+    color: rgb(180, 81, 81);
+    font-weight: 500;
+    font-size: large;
+}
+
+.foodPic {
+    width: 20%;
+    height: 20%;
+}
+
+.description {
+    background-color: gainsboro;
+}
+
+.subtitle {
+    background-color: blueviolet;
+    color: white;
+    font-weight: bold;
+}
+
+.description.list {
+    font-weight: 600;
+    font-size: 12px;
+}
